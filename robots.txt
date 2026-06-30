@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexandriapestcontrolco.com/sitemap.xml
